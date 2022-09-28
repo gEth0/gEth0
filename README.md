@@ -1,7 +1,7 @@
 ![MasterHead](./gEth0.png)
 
 <h1 align="center">Hi 🚀, I'm gEth0</h1>
-<h3 align="center">A guy how simply loves coding 💻​</h3>
+<h3 align="center">A guy who simply loves coding 💻​</h3>
 <div style="marigin:40px;">
   <img align="right" margin="40px" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 </div>
