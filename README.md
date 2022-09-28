@@ -1,6 +1,6 @@
 [![MasterHead](./gEth0.png)
 
-<h1 align="center">Hi 👋, I'm gEth0</h1>
+<h1 align="center">Hi 🚀, I'm gEth0</h1>
 <h3 align="center">A guy how simply loves coding 💻​</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="margin:40px;border:5px solid grey; border-radius:50px;"> 
 
