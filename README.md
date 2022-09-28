@@ -1,4 +1,4 @@
-[![MasterHead](./gEth0.png)
+[![MasterHead](./images/gEth0.png)
 
 <h1 align="center">Hi 🚀, I'm gEth0</h1>
 <h3 align="center">A guy how simply loves coding 💻​</h3>
