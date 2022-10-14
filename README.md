@@ -7,7 +7,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geth0&label=Profile%20views&color=4dff00&style=plastic" alt="geth0" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,Flutter and Backend Structures**
+- 🌱 I’m currently learning **Angular,Flutter and Backend Structures**
 
 - 📫 How to reach me **gEth0.hz@gmail.com**
 
